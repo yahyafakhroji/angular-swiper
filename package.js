@@ -1,8 +1,8 @@
-var packageName = 'aaronroberson:angular-swiper';
+var packageName = 'yahyafakhroji:angular-swiper-dev';
 var where = 'client';
-var version = '0.4.0';
+var version = '0.0.1';
 var summary = 'Angular directive for iDangero.us Swiper re-packaged for Meteor.';
-var gitLink = 'https://github.com/aaronroberson/angular-swiper';
+var gitLink = 'https://github.com/yahyafakhroji/angular-swiper-dev';
 var documentationFile = 'README.md';
 
 // Meta-data
